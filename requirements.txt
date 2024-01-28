@@ -1,0 +1,2 @@
+setuptools
+asazuke @ git+https://github.com/bggd/asazuke
